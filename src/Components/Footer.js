@@ -9,7 +9,7 @@ export default function Footer() {
       <Container className="text-center">
         <p className="mb-0" id='copyright'>© {new Date().getFullYear()} Rukhsar. All rights reserved.</p>
         <small>
-          <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="me-3" id='github'>GitHub</a>
+          <a href="https://rsshaikh.github.io/Rukhsar_Portfolio/" target="_blank" rel="noopener noreferrer" className="me-3" id='github'>GitHub</a>
           <a href="https://rukhsarsshaikhportfolio.netlify.app/" target="_blank" rel="noopener noreferrer" id='netlify'>Netlify</a>&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer" id='linkedin'>LinkedIn</a>
         </small>
