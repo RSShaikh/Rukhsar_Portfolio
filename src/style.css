@@ -1,0 +1,109 @@
+body {
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ background-color: #100622;
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h2 {
+  color: rgb(206, 83, 34);
+}
+#profile-image{
+
+  margin-bottom: 50px;
+
+}
+
+#navbar{
+  background-color: #1A0B2E;
+  
+}
+
+#link1,#link2, #link3, #link4, #link5,#logo1{
+  color: rgb(206, 83, 34);
+}
+#link1:hover,#link2:hover, #link3:hover, #link4:hover, #link5:hover,#logo1:hover,#github:hover,#linkedin:hover,#netlify:hover{
+  color: rgb(46, 163, 209);
+  text-decoration: none;
+}
+
+#about-text{
+  color: white
+}
+
+#skills, #frontend{
+  color: white
+}
+
+#about {
+  background-image: linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0.3));
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  color: white;
+  border-radius: 12px;
+}
+
+body {
+  background-attachment: fixed;
+  backdrop-filter: blur(2px);
+}
+
+#skills{
+
+   background-image: linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0.3));
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  color: white;
+  border-radius: 12px;
+}
+
+#contact{
+   background-image: linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0.3));
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  color: white;
+  border-radius: 12px;
+
+}
+
+/* #footer{
+  background-color: #1A0B2E;
+
+} */
+
+#copyright,#github,#linkedin,#netlify{
+   color: rgb(206, 83, 34);
+}
+
+.light-theme {
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+.dark-theme {
+  background-color: #121212;
+  color: #f8f9fa;
+}
+
+.dark-theme a {
+  color: #f8f9fa;
+}
+
+.light-theme a {
+  color: #212529;
+}
+
+#about, #projects, #skills, #resume, #contact {
+  min-height: 100vh;
+  padding-top: 60px;
+  padding-bottom: 60px;
+
+}
+
+
