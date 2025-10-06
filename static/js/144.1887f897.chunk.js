@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrukhsar_portfolio=self.webpackChunkrukhsar_portfolio||[]).push([[144],{251:(e,a,s)=>{s.r(a),s.d(a,{default:()=>n});s(43);const r=s.p+"static/media/Sample_Resume.31d44db110aafee9a8e5.pdf";var t=s(579);function n(){return(0,t.jsxs)("div",{className:"container mt-5 text-center mb-5",children:[(0,t.jsx)("h2",{children:"Resume"}),(0,t.jsx)("a",{href:r,download:!0,className:"btn btn-outline-primary mt-3",children:"Download Resume"})]})}}}]);
+//# sourceMappingURL=144.1887f897.chunk.js.map
