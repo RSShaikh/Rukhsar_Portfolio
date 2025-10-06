@@ -10,7 +10,7 @@ export default function Projects() {
   {
     title: 'Portfolio Site',
     description: 'Modular React SPA with theme toggling and responsive layout.',
-    link: 'https://github.com/rukhsar/portfolio',
+    link: 'http://localhost:3000/Rukhsar_Portfolio',
   },
 ];
 
@@ -24,7 +24,7 @@ export default function Projects() {
               <Card.Body>
                 <Card.Title>{proj.title}</Card.Title>
                 <Card.Text>{proj.description}</Card.Text>
-                <Button variant="primary" href={proj.link} target="_blank">View Code</Button>
+                <Button variant="primary" href={proj.link} target="_blank">View Project</Button>
               </Card.Body>
             </Card>
           </div>
